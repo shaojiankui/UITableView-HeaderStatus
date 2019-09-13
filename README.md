@@ -1,0 +1,2 @@
+# UITableView-HeaderStatus
+获取UITableView Section Header的显示或者悬浮Pinned状态
